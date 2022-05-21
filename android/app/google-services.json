@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146282410765",
+    "project_id": "fast-ui-a276c",
+    "storage_bucket": "fast-ui-a276c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146282410765:android:31a02e9791ace5af5cf644",
+        "android_client_info": {
+          "package_name": "com.example.fast_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146282410765-eqjmbn66fpm2s92ujaqdm5tjj4oon03m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmjy4C7LT2WDYieJ9_ETJboKTLR9zcQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146282410765-eqjmbn66fpm2s92ujaqdm5tjj4oon03m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
